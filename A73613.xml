@@ -1,0 +1,349 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>John Byrch clerke to the ryghte excellent Doctor in Phisike Andrewe Borde</title>
+            <author>Byrch, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1540</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73613</idno>
+            <idno type="STC">STC 4241.5</idno>
+            <idno type="STC">ESTC S124756</idno>
+            <idno type="EEBO-CITATION">99898625</idno>
+            <idno type="PROQUEST">99898625</idno>
+            <idno type="VID">173175</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73613)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173175)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2021:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>John Byrch clerke to the ryghte excellent Doctor in Phisike Andrewe Borde</title>
+                  <author>Byrch, John.</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>in Pater noster rowe at the sygne of our Lady pytye by John Redman for Rycharde bankes,</publisher>
+                  <pubPlace>[Imprynted at London :</pubPlace>
+                  <date>[c. 1540]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>At foot of title page: Cum Priuilegio Regali ad imprimendum solum.</note>
+                  <note>Date of publication from STC.</note>
+                  <note>Verse - "As I chaunced for to walke, for my ... cyon".</note>
+                  <note>Oa copy, reel 2021, is a fragment.</note>
+                  <note>Reproduction of original in the All Souls College Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Boorde, Andrew, 1490?-1549 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="colophon">
+            <pb facs="tcp:173175:1"/>
+            <!-- PDF PAGE 58 -->
+            <p>¶ Imprynted at London in Pater noſter rowe at the ſygue of our Lady pytye by Iohn<g ref="char:cmbAbbrStroke">̄</g> Redman for Rycharde bankes</p>
+            <p>Cum priuilegio Regali ad imprimendum ſolum.</p>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:173175:1"/>
+            <!-- PDF PAGE 58 -->
+            <head>¶ Iohn<g ref="char:cmbAbbrStroke">̄</g> Byrch Clerke / to the ryghte excellent Doctor in Phiſike Andrewe Borde.</head>
+            <lg>
+               <l>AS I chaunced for to walke, for my recreacyon</l>
+               <l>To paſſe the tyme forth, to peruſe a certayn thing</l>
+               <l>I ſawe two ſtande in communicacyon</l>
+               <l>And i<g ref="char:cmbAbbrStroke">̄</g> theyr hand a boke, whervpo<g ref="char:cmbAbbrStroke">̄</g> they were redig</l>
+               <l>I vaylyd my bonet, with that they were ſmylynge</l>
+               <l>That not regardynge. I paſſed ſorth by</l>
+               <l>With that the one called me, wyllynge to come ny</l>
+            </lg>
+            <lg>
+               <l>¶ I merueyled not a lytell, what was theyr intent</l>
+               <l>To call me ſo haſtely, this thynge is playne</l>
+               <l>An excellent worke, to me they dyd preſent</l>
+               <l>Inſtantly prayenge me, to take the payne</l>
+               <l>To anſwer to your mayſterſhyp that berdes doth diſdain</l>
+               <l>And ſo vpon that, they betoke me the boke</l>
+               <l>Prayenge me hartely, it to ouer loke</l>
+            </lg>
+            <lg>
+               <l>¶ Wherin full vngodly, your doge ryme doth reports</l>
+               <l>Rede it who wyll, no doubte he ſhall fynde</l>
+               <l>Nothynge you do but rayle on euery ſorte</l>
+               <l>As a man halfe dyſtraught, wantynge his mynde</l>
+               <l>So that onles, you wolde make men blynde</l>
+               <l>Marke who wyll in your boke, in maner one and all</l>
+               <l>You make all men linaues, yet are you the pryncypall</l>
+            </lg>
+            <lg>
+               <l>¶ Thus when I had red it, I dyd conſyder</l>
+               <l>
+                  <gap reason="illegible: page cropped" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <pb facs="tcp:173175:2"/>
+                  <!-- PDF PAGE 59 -->
+How of beardes you make, your definition</l>
+               <l>Payntyng mens beardes, after a ſtrange ſorte</l>
+               <l>I knewe by that you were a phyſycyon</l>
+               <l>And in ars Phyſonomye, had great ſpeculacyon</l>
+               <l>I neuer herd clener rethoryke, ſynce the hour I was borne</l>
+               <l>I iuged when I red it, you were borne vnder Capricorne</l>
+            </lg>
+            <lg>
+               <l>¶ I maruayle greatly, you beynge a phyſycion</l>
+               <l>And knoweth vnto man, it is geuen by nature</l>
+               <l>To haue of heare abundaunce, by goddes creacyon</l>
+               <l>You wyll not this denye I am perfecte and ſure</l>
+               <l>In caſe that you do, you may ſay your pleaſure</l>
+               <l>But this wyll I ſay, in our Englyſhe ſpeche</l>
+               <l>And you loue a bearde no better, ſynge that of your brech</l>
+            </lg>
+            <lg>
+               <l>¶ It is a ſtraunge thynge, to heare your phalitaſy</l>
+               <l>How goodly your bearde, you wolde deuyſe</l>
+               <l>A muſter deuelyce wolde become you pretely</l>
+               <l>You ſay you loue a bearde, after that gyſe</l>
+               <l>But and I myght make you one, it ſhold be on this wyſe</l>
+               <l>Bycauſe I vnderſtande your name is mayſter Boorde</l>
+               <l>you ſholde haue an antike beard of a whelpes toorde</l>
+            </lg>
+            <lg>
+               <l>¶ Now by Ieſu you make me not a lytell to ſtudy</l>
+               <l>what ſholde be the cauſe you hate ſo a bearde</l>
+               <l>I thynke in my mynde you haue the frenſy</l>
+               <l>Or els perchaunce, one made you afearde</l>
+               <l>His breche beynge bare came ronnynge backwarde</l>
+               <l>
+                  <gap reason="illegible: page cropped" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <pb facs="tcp:173175:2"/>
+                  <!-- PDF PAGE 59 -->
+For you ſtudye more the<g ref="char:cmbAbbrStroke">̄</g> Phiſicke, I perceyue it well</l>
+               <l>But before or you enter, I wyll you promoote</l>
+               <l>To come that ſhall drawe your bearde vp by the roote</l>
+            </lg>
+            <lg>
+               <l>For I tell you, I do not loue them that be heary</l>
+               <l>I am of that opynyon, as well as you</l>
+               <l>Therfore I wolde, that you ſholde now ſpedely</l>
+               <l>P<gap reason="illegible: damage" extent="4+ letters">
+                     <desc>••••…</desc>
+                  </gap>e vp your bearde then wyll it loke newe</l>
+               <l>A<gap reason="illegible: damage" extent="4+ letters">
+                     <desc>••••…</desc>
+                  </gap>de as a Coote, this thynge is trewe</l>
+               <l>
+                  <gap reason="illegible: damage" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> beware I ſay, of <gap reason="illegible: damage" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he froſty weder</l>
+               <l>And whe<g ref="char:cmbAbbrStroke">̄</g> you wyll be ſhauen take a dyſhe clout or a feder<g ref="char:punc">▪</g>
+               </l>
+            </lg>
+            <lg>
+               <l>¶ I meruayle not a lytell, as god ſhall helpe me</l>
+               <l>To ſe a man inuey, after ſuche a faſhyon</l>
+               <l>Exceptynge men, that are in great dygnite</l>
+               <l>That it is lawfull, you make probation</l>
+               <l>To weare theyr beardes, but marke your concluſyon</l>
+               <l>you are ſo cyrcumſpecte, and ſpeakes ſo playnely</l>
+               <l>Loke who wereth beardes, you call it knauery</l>
+            </lg>
+            <lg>
+               <l>¶ you ſaye vnder beardes, be bothe lyce and neties</l>
+               <l>Pockes and pockerelles, there doth remayne</l>
+               <l>I thynke yf a man loked betwyxte your lyppes</l>
+               <l>A man myght fynde there, perchaunce on<gap reason="illegible: damage" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> or twayne</l>
+               <l>Good ſtore of ſcabbes, in your breche to be playne</l>
+               <l>Seynge vnder beardes, dyſeaſes are not ſtrange</l>
+               <l>By lyke whe<g ref="char:cmbAbbrStroke">̄</g> you had a beard, you were ful of the mange</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible: damage" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> in beardes I perce<gap reason="illegible: damage" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap> 
+                  <gap reason="illegible: damage" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> are ſo co<g ref="char:cmbAbbrStroke">̄</g>nyng</l>
+               <l>
+                  <pb facs="tcp:173175:3"/>
+                  <!-- PDF PAGE 60 -->
+                  <gap reason="illegible: damage" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+               <l>Goynge from the order ſhewed by ſcrypture</l>
+               <l>As appeareth by your boke / doth rayle at your pleaſure</l>
+            </lg>
+            <lg>
+               <l>¶ Then you ſhewe your ſelf to haue ben in far co<g ref="char:cmbAbbrStroke">̄</g>trayes</l>
+               <l>Deſcrybynge the maner how berdes they vſe there</l>
+               <l>And after this ſorte your boke ſo ſayes</l>
+               <l>In token of auncyentnes this thynge is cleare</l>
+               <l>Sage men vſe beardes there for to weare</l>
+               <l>Which thynge you rekyn in them for great ſadnes</l>
+               <l>And Englyſhemen the contrary, a poynt of madnes.</l>
+            </lg>
+            <lg>
+               <l>¶ Nowe it is but foly this matter to delate</l>
+               <l>Marke in auncyent ſtoryes bothe newe and olde</l>
+               <l>Loke who was beardyd, was euer in eſtate</l>
+               <l>As a man of reputacyon, he myght be bolde</l>
+               <l>Yf ought were ſpoken / the beardyd man it tolde</l>
+               <l>Thus were the beardyd men in hygh eſtymation</l>
+               <l>And loke who had none / was of ſmall reputation.</l>
+            </lg>
+            <lg>
+               <l>¶ In a bearde doth manhode playnely conſyſte</l>
+               <l>The ſygne of a bearde, ſtrength doth ſygnifye</l>
+               <l>This is founde in naturall thynges ſerche who lyſte</l>
+               <l>The prudent Phyloſophers, this doth teſtyfye</l>
+               <l>who lyſt in them to ſerche ſhall fynde it playnely</l>
+               <l>And loke who hath no bearde, it is a ſygne he is no man</l>
+               <l>And tyll he haue a bearde, he is much lyke a woman</l>
+            </lg>
+            <lg>
+               <l>¶ Yf you wyll knowe the thynge to a bearde belongyng</l>
+               <l>That is grauyte ſadnes, and lykewyſe dyſcretion</l>
+               <l>Full of force or ſtrength alwayes in his wurkynge</l>
+               <l>
+                  <gap reason="illegible: damage" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> a bearde ſholde be of this condycyon</l>
+               <l>
+                  <pb facs="tcp:173175:3"/>
+                  <!-- PDF PAGE 60 -->
+                  <gap reason="illegible: damage" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> man, that vleth the courte</l>
+               <l>And wot you what they ſay, they maruayle what you are</l>
+               <l>They iudge you ſene in cranes dyrt &amp; cal you mayſter phi<g ref="char:EOLunhyphen"/>ſikar.</l>
+            </lg>
+            <lg>
+               <l>¶ Now for bycauſe perchaunce / men wyll iudge</l>
+               <l>Malyce ſholde increaſe betwyxte you and me</l>
+               <l>I do you to wyt I nother murmur nor grudge</l>
+               <l>But yf men ſhall wryte, let them wryte honeſtly</l>
+               <l>Notwithſtandynge, that I ſpeke but merely</l>
+               <l>Prayenge you hartely, to take it as you lyſt</l>
+               <l>For I muſt nedes prayſe beardes and yours were bepyſt</l>
+            </lg>
+            <lg>
+               <l>¶ Thus for feare I be to tedyous / I wyll make <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n ende</l>
+               <l>Prayenge you hartely / to be content</l>
+               <l>For I thynke you and I / haue ſpent much wynde</l>
+               <l>yet notwithſtandynge / after my iugement</l>
+               <l>Take a goſtly father / and confeſſe you this lente</l>
+               <l>So ſhall you be cleane / as the howre you were borne</l>
+               <l>And haue as cleare a ſouſe / as he that wereth a horne</l>
+            </lg>
+            <lg>
+               <l>¶ Now you knowe my mynde / of the ſomme and all</l>
+               <l>In caſe you be angry loke that you freyt</l>
+               <l>Take a wyſpe and rubbe your ſelfe on the gall</l>
+               <l>Tyll that you haue gotten you a knauy ſhe heyte</l>
+               <l>Then walke vp and downe / and loke that you ſwete</l>
+               <l>And I praye you hartely / take no colde</l>
+               <l>For I had rayther ſe you hylthe / then that you ſo ſholde</l>
+            </lg>
+            <lg>
+               <l>¶ This at the laſt / but that I haue forgotten</l>
+               <l>I thought in mynde / to ſay fare well</l>
+               <l>I trowe cockes body I am forſpoken</l>
+               <l>I wolde you were at the deuyll of hell</l>
+               <gap reason="illegible: page cropped" extent="3 lines">
+                  <desc>〈3 lines〉</desc>
+               </gap>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
